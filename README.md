@@ -38,4 +38,4 @@ ant:
 Fractional engineering leadership, agent-first builds, architecture
 reviews, or a second opinion before you put an LLM near money.
 
-**[Message me on LinkedIn](https://www.linkedin.com/in/anton-kraskov)**
+**[constant.engineer](https://constant.engineer)** · **[Message me on LinkedIn](https://www.linkedin.com/in/anton-kraskov)**
