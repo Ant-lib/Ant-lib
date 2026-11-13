@@ -14,7 +14,7 @@ ant:
     - an ISO 27001 certification (the least fun, the most useful)
   stack: [TypeScript, Node.js, Python, Kotlin, AWS, Postgres, Next.js, Supabase]
   builds_with: [Claude Code, MCP, subagents, a written plan]
-  currently: open source, agent tooling, MCP servers
+  currently: building NightMarquee, open to leadership roles
 ```
 
 ### Rules I actually follow
@@ -30,7 +30,7 @@ ant:
 | | |
 |---|---|
 | **[hingewave](https://github.com/Ant-lib/hingewave)** | The fold animation for MacBook lids, Windows laptops and Android foldables. Reads the hinge sensor every 20 ms. Three native apps, one effect, parity proved by golden images. |
-| **[nightmarquee](https://nightmarquee.com)** | A library of art-directed prompts that generate cinematic, animated websites in Lovable, Bolt, Cursor and Claude. Every prompt has a live demo you can scroll. Also available inside your editor as an [MCP server](https://github.com/ant-dev-lab/nightmarquee-mcp). |
+| **[nightmarquee](https://nightmarquee.com)** | Cinematic websites you can make your own: pick a scene, put your brand in it, export a working site. Also runs as an [MCP server](https://github.com/ant-dev-lab/nightmarquee-mcp) inside Claude Code and Cursor. |
 | **[honest-crypto-research-data](https://github.com/Ant-lib/honest-crypto-research-data)** | Free crypto data sources, each tested for signal. Spoiler: mostly no. |
 
 ### Hire me
